@@ -1,0 +1,490 @@
+The Large Item Sets are: (104 Sets)
+[I9] 
+[I1] 
+[I2] 
+[I10] 
+[I3] 
+[I4] 
+[I5] 
+[I6] 
+[I7] 
+[I8] 
+[I1, I2] 
+[I1, I4] 
+[I2, I3] 
+[I2, I4] 
+[I2, I5] 
+[I3, I4] 
+[I2, I6] 
+[I3, I5] 
+[I1, I8] 
+[I2, I7] 
+[I3, I6] 
+[I4, I5] 
+[I9, I1] 
+[I2, I8] 
+[I3, I7] 
+[I4, I6] 
+[I9, I2] 
+[I3, I8] 
+[I4, I7] 
+[I5, I6] 
+[I9, I3] 
+[I4, I8] 
+[I5, I7] 
+[I9, I4] 
+[I5, I8] 
+[I6, I7] 
+[I9, I5] 
+[I6, I8] 
+[I9, I6] 
+[I7, I8] 
+[I9, I7] 
+[I9, I8] 
+[I2, I10] 
+[I10, I4] 
+[I10, I3] 
+[I10, I6] 
+[I10, I5] 
+[I10, I8] 
+[I10, I7] 
+[I9, I10] 
+[I9, I2, I10] 
+[I10, I3, I8] 
+[I2, I10, I8] 
+[I10, I5, I8] 
+[I9, I10, I3] 
+[I10, I4, I8] 
+[I9, I10, I6] 
+[I10, I6, I8] 
+[I9, I10, I8] 
+[I2, I3, I4] 
+[I2, I3, I6] 
+[I2, I3, I7] 
+[I2, I3, I8] 
+[I2, I4, I7] 
+[I9, I2, I3] 
+[I2, I4, I8] 
+[I3, I4, I7] 
+[I9, I2, I4] 
+[I2, I5, I8] 
+[I3, I4, I8] 
+[I2, I6, I8] 
+[I4, I5, I7] 
+[I9, I2, I6] 
+[I3, I6, I8] 
+[I4, I5, I8] 
+[I9, I1, I8] 
+[I4, I6, I8] 
+[I9, I2, I8] 
+[I9, I4, I6] 
+[I4, I7, I8] 
+[I5, I6, I8] 
+[I9, I3, I8] 
+[I9, I4, I7] 
+[I9, I5, I6] 
+[I5, I7, I8] 
+[I9, I4, I8] 
+[I9, I5, I7] 
+[I9, I5, I8] 
+[I9, I6, I8] 
+[I9, I7, I8] 
+[I2, I10, I3] 
+[I10, I3, I6] 
+[I2, I10, I6] 
+[I9, I10, I3, I8] 
+[I9, I2, I10, I8] 
+[I9, I2, I3, I8] 
+[I9, I2, I4, I8] 
+[I4, I5, I7, I8] 
+[I9, I10, I6, I8] 
+[I9, I2, I6, I8] 
+[I9, I4, I6, I8] 
+[I9, I5, I6, I8] 
+[I9, I5, I7, I8] 
+[I10, I2, I3, I8] 
+
+The Association Rules are: (383 Rules)
+[I1] => [I2] (Confidence: 80.0%)
+[I1] => [I4] (Confidence: 80.0%)
+[I3] => [I2] (Confidence: 86.66666666666667%)
+[I2] => [I3] (Confidence: 76.47058823529412%)
+[I4] => [I2] (Confidence: 81.25%)
+[I2] => [I4] (Confidence: 76.47058823529412%)
+[I5] => [I2] (Confidence: 75.0%)
+[I4] => [I3] (Confidence: 68.75%)
+[I3] => [I4] (Confidence: 73.33333333333333%)
+[I6] => [I2] (Confidence: 83.33333333333334%)
+[I5] => [I3] (Confidence: 66.66666666666666%)
+[I1] => [I8] (Confidence: 90.0%)
+[I7] => [I2] (Confidence: 76.92307692307693%)
+[I6] => [I3] (Confidence: 75.0%)
+[I3] => [I6] (Confidence: 60.0%)
+[I5] => [I4] (Confidence: 83.33333333333334%)
+[I4] => [I5] (Confidence: 62.5%)
+[I1] => [I9] (Confidence: 90.0%)
+[I9] => [I1] (Confidence: 64.28571428571429%)
+[I8] => [I2] (Confidence: 87.5%)
+[I2] => [I8] (Confidence: 82.35294117647058%)
+[I7] => [I3] (Confidence: 76.92307692307693%)
+[I3] => [I7] (Confidence: 66.66666666666666%)
+[I6] => [I4] (Confidence: 75.0%)
+[I2] => [I9] (Confidence: 70.58823529411765%)
+[I9] => [I2] (Confidence: 85.71428571428571%)
+[I8] => [I3] (Confidence: 68.75%)
+[I3] => [I8] (Confidence: 73.33333333333333%)
+[I7] => [I4] (Confidence: 84.61538461538461%)
+[I4] => [I7] (Confidence: 68.75%)
+[I6] => [I5] (Confidence: 66.66666666666666%)
+[I5] => [I6] (Confidence: 66.66666666666666%)
+[I3] => [I9] (Confidence: 66.66666666666666%)
+[I9] => [I3] (Confidence: 71.42857142857143%)
+[I8] => [I4] (Confidence: 81.25%)
+[I4] => [I8] (Confidence: 81.25%)
+[I7] => [I5] (Confidence: 76.92307692307693%)
+[I5] => [I7] (Confidence: 83.33333333333334%)
+[I4] => [I9] (Confidence: 68.75%)
+[I9] => [I4] (Confidence: 78.57142857142857%)
+[I8] => [I5] (Confidence: 68.75%)
+[I5] => [I8] (Confidence: 91.66666666666666%)
+[I7] => [I6] (Confidence: 61.53846153846154%)
+[I6] => [I7] (Confidence: 66.66666666666666%)
+[I5] => [I9] (Confidence: 75.0%)
+[I9] => [I5] (Confidence: 64.28571428571429%)
+[I8] => [I6] (Confidence: 68.75%)
+[I6] => [I8] (Confidence: 91.66666666666666%)
+[I6] => [I9] (Confidence: 83.33333333333334%)
+[I9] => [I6] (Confidence: 71.42857142857143%)
+[I7] => [I8] (Confidence: 69.23076923076923%)
+[I7] => [I9] (Confidence: 69.23076923076923%)
+[I9] => [I7] (Confidence: 64.28571428571429%)
+[I3] => [I2, I4] (Confidence: 60.0%)
+[I3, I4] => [I2] (Confidence: 81.81818181818183%)
+[I2, I4] => [I3] (Confidence: 69.23076923076923%)
+[I2, I3] => [I4] (Confidence: 69.23076923076923%)
+[I8] => [I9] (Confidence: 81.25%)
+[I9] => [I8] (Confidence: 92.85714285714286%)
+[I6] => [I2, I3] (Confidence: 66.66666666666666%)
+[I3, I6] => [I2] (Confidence: 88.88888888888889%)
+[I2, I6] => [I3] (Confidence: 80.0%)
+[I2, I3] => [I6] (Confidence: 61.53846153846154%)
+[I7] => [I2, I3] (Confidence: 61.53846153846154%)
+[I3, I7] => [I2] (Confidence: 80.0%)
+[I2, I7] => [I3] (Confidence: 80.0%)
+[I2, I3] => [I7] (Confidence: 61.53846153846154%)
+[I8] => [I2, I3] (Confidence: 62.5%)
+[I3] => [I2, I8] (Confidence: 66.66666666666666%)
+[I3, I8] => [I2] (Confidence: 90.9090909090909%)
+[I2, I8] => [I3] (Confidence: 71.42857142857143%)
+[I2, I3] => [I8] (Confidence: 76.92307692307693%)
+[I7] => [I2, I4] (Confidence: 61.53846153846154%)
+[I4, I7] => [I2] (Confidence: 72.72727272727273%)
+[I2, I7] => [I4] (Confidence: 80.0%)
+[I2, I4] => [I7] (Confidence: 61.53846153846154%)
+[I3] => [I9, I2] (Confidence: 60.0%)
+[I2, I3] => [I9] (Confidence: 69.23076923076923%)
+[I9] => [I2, I3] (Confidence: 64.28571428571429%)
+[I9, I3] => [I2] (Confidence: 90.0%)
+[I9, I2] => [I3] (Confidence: 75.0%)
+[I8] => [I2, I4] (Confidence: 68.75%)
+[I4] => [I2, I8] (Confidence: 68.75%)
+[I4, I8] => [I2] (Confidence: 84.61538461538461%)
+[I2] => [I4, I8] (Confidence: 64.70588235294117%)
+[I2, I8] => [I4] (Confidence: 78.57142857142857%)
+[I2, I4] => [I8] (Confidence: 84.61538461538461%)
+[I7] => [I3, I4] (Confidence: 61.53846153846154%)
+[I4, I7] => [I3] (Confidence: 72.72727272727273%)
+[I3, I7] => [I4] (Confidence: 80.0%)
+[I3, I4] => [I7] (Confidence: 72.72727272727273%)
+[I2, I4] => [I9] (Confidence: 69.23076923076923%)
+[I9] => [I2, I4] (Confidence: 64.28571428571429%)
+[I9, I4] => [I2] (Confidence: 81.81818181818183%)
+[I9, I2] => [I4] (Confidence: 75.0%)
+[I5] => [I2, I8] (Confidence: 75.0%)
+[I5, I8] => [I2] (Confidence: 81.81818181818183%)
+[I2, I8] => [I5] (Confidence: 64.28571428571429%)
+[I2, I5] => [I8] (Confidence: 100.0%)
+[I4, I8] => [I3] (Confidence: 61.53846153846154%)
+[I3, I8] => [I4] (Confidence: 72.72727272727273%)
+[I3, I4] => [I8] (Confidence: 72.72727272727273%)
+[I6] => [I2, I8] (Confidence: 75.0%)
+[I6, I8] => [I2] (Confidence: 81.81818181818183%)
+[I2, I8] => [I6] (Confidence: 64.28571428571429%)
+[I2, I6] => [I8] (Confidence: 90.0%)
+[I7] => [I4, I5] (Confidence: 69.23076923076923%)
+[I5] => [I4, I7] (Confidence: 75.0%)
+[I5, I7] => [I4] (Confidence: 90.0%)
+[I4, I7] => [I5] (Confidence: 81.81818181818183%)
+[I4, I5] => [I7] (Confidence: 90.0%)
+[I6] => [I9, I2] (Confidence: 66.66666666666666%)
+[I2, I6] => [I9] (Confidence: 80.0%)
+[I9, I6] => [I2] (Confidence: 80.0%)
+[I9, I2] => [I6] (Confidence: 66.66666666666666%)
+[I6] => [I3, I8] (Confidence: 66.66666666666666%)
+[I6, I8] => [I3] (Confidence: 72.72727272727273%)
+[I3, I8] => [I6] (Confidence: 72.72727272727273%)
+[I3, I6] => [I8] (Confidence: 88.88888888888889%)
+[I5] => [I4, I8] (Confidence: 75.0%)
+[I5, I8] => [I4] (Confidence: 81.81818181818183%)
+[I4, I8] => [I5] (Confidence: 69.23076923076923%)
+[I4, I5] => [I8] (Confidence: 90.0%)
+[I1] => [I9, I8] (Confidence: 80.0%)
+[I1, I8] => [I9] (Confidence: 88.88888888888889%)
+[I9, I8] => [I1] (Confidence: 61.53846153846154%)
+[I9, I1] => [I8] (Confidence: 88.88888888888889%)
+[I6] => [I4, I8] (Confidence: 75.0%)
+[I6, I8] => [I4] (Confidence: 81.81818181818183%)
+[I4, I8] => [I6] (Confidence: 69.23076923076923%)
+[I4, I6] => [I8] (Confidence: 100.0%)
+[I8] => [I9, I2] (Confidence: 68.75%)
+[I2] => [I9, I8] (Confidence: 64.70588235294117%)
+[I2, I8] => [I9] (Confidence: 78.57142857142857%)
+[I9] => [I2, I8] (Confidence: 78.57142857142857%)
+[I9, I8] => [I2] (Confidence: 84.61538461538461%)
+[I9, I2] => [I8] (Confidence: 91.66666666666666%)
+[I6] => [I9, I4] (Confidence: 66.66666666666666%)
+[I4, I6] => [I9] (Confidence: 88.88888888888889%)
+[I9, I6] => [I4] (Confidence: 80.0%)
+[I9, I4] => [I6] (Confidence: 72.72727272727273%)
+[I7] => [I4, I8] (Confidence: 61.53846153846154%)
+[I7, I8] => [I4] (Confidence: 88.88888888888889%)
+[I4, I8] => [I7] (Confidence: 61.53846153846154%)
+[I4, I7] => [I8] (Confidence: 72.72727272727273%)
+[I6] => [I5, I8] (Confidence: 66.66666666666666%)
+[I6, I8] => [I5] (Confidence: 72.72727272727273%)
+[I5] => [I6, I8] (Confidence: 66.66666666666666%)
+[I5, I8] => [I6] (Confidence: 72.72727272727273%)
+[I5, I6] => [I8] (Confidence: 100.0%)
+[I3] => [I9, I8] (Confidence: 60.0%)
+[I3, I8] => [I9] (Confidence: 81.81818181818183%)
+[I9] => [I3, I8] (Confidence: 64.28571428571429%)
+[I9, I8] => [I3] (Confidence: 69.23076923076923%)
+[I9, I3] => [I8] (Confidence: 90.0%)
+[I7] => [I9, I4] (Confidence: 61.53846153846154%)
+[I4, I7] => [I9] (Confidence: 72.72727272727273%)
+[I9, I7] => [I4] (Confidence: 88.88888888888889%)
+[I9, I4] => [I7] (Confidence: 72.72727272727273%)
+[I6] => [I9, I5] (Confidence: 66.66666666666666%)
+[I5] => [I9, I6] (Confidence: 66.66666666666666%)
+[I5, I6] => [I9] (Confidence: 100.0%)
+[I9, I6] => [I5] (Confidence: 80.0%)
+[I9, I5] => [I6] (Confidence: 88.88888888888889%)
+[I7] => [I5, I8] (Confidence: 69.23076923076923%)
+[I7, I8] => [I5] (Confidence: 100.0%)
+[I5] => [I7, I8] (Confidence: 75.0%)
+[I5, I8] => [I7] (Confidence: 81.81818181818183%)
+[I5, I7] => [I8] (Confidence: 90.0%)
+[I8] => [I9, I4] (Confidence: 62.5%)
+[I4] => [I9, I8] (Confidence: 62.5%)
+[I4, I8] => [I9] (Confidence: 76.92307692307693%)
+[I9] => [I4, I8] (Confidence: 71.42857142857143%)
+[I9, I8] => [I4] (Confidence: 76.92307692307693%)
+[I9, I4] => [I8] (Confidence: 90.9090909090909%)
+[I7] => [I9, I5] (Confidence: 61.53846153846154%)
+[I5] => [I9, I7] (Confidence: 66.66666666666666%)
+[I5, I7] => [I9] (Confidence: 80.0%)
+[I9, I7] => [I5] (Confidence: 88.88888888888889%)
+[I9, I5] => [I7] (Confidence: 88.88888888888889%)
+[I5] => [I9, I8] (Confidence: 75.0%)
+[I5, I8] => [I9] (Confidence: 81.81818181818183%)
+[I9] => [I5, I8] (Confidence: 64.28571428571429%)
+[I9, I8] => [I5] (Confidence: 69.23076923076923%)
+[I9, I5] => [I8] (Confidence: 100.0%)
+[I8] => [I9, I6] (Confidence: 62.5%)
+[I6] => [I9, I8] (Confidence: 83.33333333333334%)
+[I6, I8] => [I9] (Confidence: 90.9090909090909%)
+[I9] => [I6, I8] (Confidence: 71.42857142857143%)
+[I9, I8] => [I6] (Confidence: 76.92307692307693%)
+[I9, I6] => [I8] (Confidence: 100.0%)
+[I7] => [I9, I8] (Confidence: 61.53846153846154%)
+[I7, I8] => [I9] (Confidence: 88.88888888888889%)
+[I9, I8] => [I7] (Confidence: 61.53846153846154%)
+[I9, I7] => [I8] (Confidence: 88.88888888888889%)
+[I10] => [I2] (Confidence: 90.9090909090909%)
+[I10] => [I4] (Confidence: 72.72727272727273%)
+[I3, I8] => [I9, I2] (Confidence: 72.72727272727273%)
+[I2, I3] => [I9, I8] (Confidence: 61.53846153846154%)
+[I2, I3, I8] => [I9] (Confidence: 80.0%)
+[I9, I8] => [I2, I3] (Confidence: 61.53846153846154%)
+[I9, I3] => [I2, I8] (Confidence: 80.0%)
+[I9, I3, I8] => [I2] (Confidence: 88.88888888888889%)
+[I9, I2] => [I3, I8] (Confidence: 66.66666666666666%)
+[I9, I2, I8] => [I3] (Confidence: 72.72727272727273%)
+[I9, I2, I3] => [I8] (Confidence: 88.88888888888889%)
+[I3] => [I10] (Confidence: 66.66666666666666%)
+[I10] => [I3] (Confidence: 90.9090909090909%)
+[I4, I8] => [I9, I2] (Confidence: 61.53846153846154%)
+[I2, I4] => [I9, I8] (Confidence: 61.53846153846154%)
+[I2, I4, I8] => [I9] (Confidence: 72.72727272727273%)
+[I9, I8] => [I2, I4] (Confidence: 61.53846153846154%)
+[I9, I4] => [I2, I8] (Confidence: 72.72727272727273%)
+[I9, I4, I8] => [I2] (Confidence: 80.0%)
+[I9, I2] => [I4, I8] (Confidence: 66.66666666666666%)
+[I9, I2, I8] => [I4] (Confidence: 72.72727272727273%)
+[I9, I2, I4] => [I8] (Confidence: 88.88888888888889%)
+[I6] => [I10] (Confidence: 75.0%)
+[I10] => [I6] (Confidence: 81.81818181818183%)
+[I7] => [I4, I5, I8] (Confidence: 61.53846153846154%)
+[I7, I8] => [I4, I5] (Confidence: 88.88888888888889%)
+[I5] => [I4, I7, I8] (Confidence: 66.66666666666666%)
+[I5, I8] => [I4, I7] (Confidence: 72.72727272727273%)
+[I5, I7] => [I4, I8] (Confidence: 80.0%)
+[I5, I7, I8] => [I4] (Confidence: 88.88888888888889%)
+[I4, I8] => [I5, I7] (Confidence: 61.53846153846154%)
+[I4, I7] => [I5, I8] (Confidence: 72.72727272727273%)
+[I4, I7, I8] => [I5] (Confidence: 100.0%)
+[I4, I5] => [I7, I8] (Confidence: 80.0%)
+[I4, I5, I8] => [I7] (Confidence: 88.88888888888889%)
+[I4, I5, I7] => [I8] (Confidence: 88.88888888888889%)
+[I5] => [I10] (Confidence: 66.66666666666666%)
+[I10] => [I5] (Confidence: 72.72727272727273%)
+[I6] => [I9, I2, I8] (Confidence: 66.66666666666666%)
+[I6, I8] => [I9, I2] (Confidence: 72.72727272727273%)
+[I2, I6] => [I9, I8] (Confidence: 80.0%)
+[I2, I6, I8] => [I9] (Confidence: 88.88888888888889%)
+[I9, I8] => [I2, I6] (Confidence: 61.53846153846154%)
+[I9, I6] => [I2, I8] (Confidence: 80.0%)
+[I9, I6, I8] => [I2] (Confidence: 80.0%)
+[I9, I2] => [I6, I8] (Confidence: 66.66666666666666%)
+[I9, I2, I8] => [I6] (Confidence: 72.72727272727273%)
+[I9, I2, I6] => [I8] (Confidence: 100.0%)
+[I8] => [I10] (Confidence: 62.5%)
+[I10] => [I8] (Confidence: 90.9090909090909%)
+[I7] => [I10] (Confidence: 61.53846153846154%)
+[I10] => [I7] (Confidence: 72.72727272727273%)
+[I6] => [I9, I4, I8] (Confidence: 66.66666666666666%)
+[I6, I8] => [I9, I4] (Confidence: 72.72727272727273%)
+[I4, I8] => [I9, I6] (Confidence: 61.53846153846154%)
+[I4, I6] => [I9, I8] (Confidence: 88.88888888888889%)
+[I4, I6, I8] => [I9] (Confidence: 88.88888888888889%)
+[I9, I8] => [I4, I6] (Confidence: 61.53846153846154%)
+[I9, I6] => [I4, I8] (Confidence: 80.0%)
+[I9, I6, I8] => [I4] (Confidence: 80.0%)
+[I9, I4] => [I6, I8] (Confidence: 72.72727272727273%)
+[I9, I4, I8] => [I6] (Confidence: 80.0%)
+[I9, I4, I6] => [I8] (Confidence: 100.0%)
+[I6] => [I9, I5, I8] (Confidence: 66.66666666666666%)
+[I6, I8] => [I9, I5] (Confidence: 72.72727272727273%)
+[I5] => [I9, I6, I8] (Confidence: 66.66666666666666%)
+[I5, I8] => [I9, I6] (Confidence: 72.72727272727273%)
+[I5, I6] => [I9, I8] (Confidence: 100.0%)
+[I5, I6, I8] => [I9] (Confidence: 100.0%)
+[I9, I8] => [I5, I6] (Confidence: 61.53846153846154%)
+[I9, I6] => [I5, I8] (Confidence: 80.0%)
+[I9, I6, I8] => [I5] (Confidence: 80.0%)
+[I9, I5] => [I6, I8] (Confidence: 88.88888888888889%)
+[I9, I5, I8] => [I6] (Confidence: 88.88888888888889%)
+[I9, I5, I6] => [I8] (Confidence: 100.0%)
+[I10] => [I9] (Confidence: 81.81818181818183%)
+[I9] => [I10] (Confidence: 64.28571428571429%)
+[I7] => [I9, I5, I8] (Confidence: 61.53846153846154%)
+[I7, I8] => [I9, I5] (Confidence: 88.88888888888889%)
+[I5] => [I9, I7, I8] (Confidence: 66.66666666666666%)
+[I5, I8] => [I9, I7] (Confidence: 72.72727272727273%)
+[I5, I7] => [I9, I8] (Confidence: 80.0%)
+[I5, I7, I8] => [I9] (Confidence: 88.88888888888889%)
+[I9, I8] => [I5, I7] (Confidence: 61.53846153846154%)
+[I9, I7] => [I5, I8] (Confidence: 88.88888888888889%)
+[I9, I7, I8] => [I5] (Confidence: 100.0%)
+[I9, I5] => [I7, I8] (Confidence: 88.88888888888889%)
+[I9, I5, I8] => [I7] (Confidence: 88.88888888888889%)
+[I9, I5, I7] => [I8] (Confidence: 100.0%)
+[I3] => [I2, I10] (Confidence: 60.0%)
+[I10] => [I2, I3] (Confidence: 81.81818181818183%)
+[I10, I3] => [I2] (Confidence: 90.0%)
+[I2, I3] => [I10] (Confidence: 69.23076923076923%)
+[I2, I10] => [I3] (Confidence: 90.0%)
+[I6] => [I10, I3] (Confidence: 66.66666666666666%)
+[I3, I6] => [I10] (Confidence: 88.88888888888889%)
+[I10] => [I3, I6] (Confidence: 72.72727272727273%)
+[I10, I6] => [I3] (Confidence: 88.88888888888889%)
+[I10, I3] => [I6] (Confidence: 80.0%)
+[I6] => [I2, I10] (Confidence: 66.66666666666666%)
+[I10] => [I2, I6] (Confidence: 72.72727272727273%)
+[I10, I6] => [I2] (Confidence: 88.88888888888889%)
+[I2, I6] => [I10] (Confidence: 80.0%)
+[I2, I10] => [I6] (Confidence: 80.0%)
+[I10] => [I9, I2] (Confidence: 72.72727272727273%)
+[I2, I10] => [I9] (Confidence: 80.0%)
+[I9, I10] => [I2] (Confidence: 88.88888888888889%)
+[I9, I2] => [I10] (Confidence: 66.66666666666666%)
+[I3] => [I10, I8] (Confidence: 60.0%)
+[I3, I8] => [I10] (Confidence: 81.81818181818183%)
+[I10] => [I3, I8] (Confidence: 81.81818181818183%)
+[I10, I8] => [I3] (Confidence: 90.0%)
+[I10, I3] => [I8] (Confidence: 90.0%)
+[I10] => [I2, I8] (Confidence: 81.81818181818183%)
+[I10, I8] => [I2] (Confidence: 90.0%)
+[I2, I8] => [I10] (Confidence: 64.28571428571429%)
+[I2, I10] => [I8] (Confidence: 90.0%)
+[I5] => [I10, I8] (Confidence: 66.66666666666666%)
+[I5, I8] => [I10] (Confidence: 72.72727272727273%)
+[I10] => [I5, I8] (Confidence: 72.72727272727273%)
+[I10, I8] => [I5] (Confidence: 80.0%)
+[I10, I5] => [I8] (Confidence: 100.0%)
+[I10] => [I9, I3] (Confidence: 72.72727272727273%)
+[I10, I3] => [I9] (Confidence: 80.0%)
+[I9, I3] => [I10] (Confidence: 80.0%)
+[I9, I10] => [I3] (Confidence: 88.88888888888889%)
+[I4, I8] => [I10] (Confidence: 61.53846153846154%)
+[I10] => [I4, I8] (Confidence: 72.72727272727273%)
+[I10, I8] => [I4] (Confidence: 80.0%)
+[I10, I4] => [I8] (Confidence: 100.0%)
+[I6] => [I9, I10] (Confidence: 66.66666666666666%)
+[I10] => [I9, I6] (Confidence: 72.72727272727273%)
+[I10, I6] => [I9] (Confidence: 88.88888888888889%)
+[I9, I6] => [I10] (Confidence: 80.0%)
+[I9, I10] => [I6] (Confidence: 88.88888888888889%)
+[I6] => [I10, I8] (Confidence: 66.66666666666666%)
+[I6, I8] => [I10] (Confidence: 72.72727272727273%)
+[I10] => [I6, I8] (Confidence: 72.72727272727273%)
+[I10, I8] => [I6] (Confidence: 80.0%)
+[I10, I6] => [I8] (Confidence: 88.88888888888889%)
+[I10] => [I9, I8] (Confidence: 81.81818181818183%)
+[I10, I8] => [I9] (Confidence: 90.0%)
+[I9] => [I10, I8] (Confidence: 64.28571428571429%)
+[I9, I8] => [I10] (Confidence: 69.23076923076923%)
+[I9, I10] => [I8] (Confidence: 100.0%)
+[I3, I8] => [I10, I2] (Confidence: 72.72727272727273%)
+[I2, I3] => [I10, I8] (Confidence: 61.53846153846154%)
+[I2, I3, I8] => [I10] (Confidence: 80.0%)
+[I10] => [I2, I3, I8] (Confidence: 72.72727272727273%)
+[I10, I8] => [I2, I3] (Confidence: 80.0%)
+[I10, I3] => [I2, I8] (Confidence: 80.0%)
+[I10, I3, I8] => [I2] (Confidence: 88.88888888888889%)
+[I10, I2] => [I3, I8] (Confidence: 80.0%)
+[I10, I2, I8] => [I3] (Confidence: 88.88888888888889%)
+[I10, I2, I3] => [I8] (Confidence: 88.88888888888889%)
+[I3, I8] => [I9, I10] (Confidence: 72.72727272727273%)
+[I10] => [I9, I3, I8] (Confidence: 72.72727272727273%)
+[I10, I8] => [I9, I3] (Confidence: 80.0%)
+[I10, I3] => [I9, I8] (Confidence: 80.0%)
+[I10, I3, I8] => [I9] (Confidence: 88.88888888888889%)
+[I9, I8] => [I10, I3] (Confidence: 61.53846153846154%)
+[I9, I3] => [I10, I8] (Confidence: 80.0%)
+[I9, I3, I8] => [I10] (Confidence: 88.88888888888889%)
+[I9, I10] => [I3, I8] (Confidence: 88.88888888888889%)
+[I9, I10, I8] => [I3] (Confidence: 88.88888888888889%)
+[I9, I10, I3] => [I8] (Confidence: 100.0%)
+[I10] => [I9, I2, I8] (Confidence: 72.72727272727273%)
+[I10, I8] => [I9, I2] (Confidence: 80.0%)
+[I2, I10] => [I9, I8] (Confidence: 80.0%)
+[I2, I10, I8] => [I9] (Confidence: 88.88888888888889%)
+[I9, I8] => [I2, I10] (Confidence: 61.53846153846154%)
+[I9, I10] => [I2, I8] (Confidence: 88.88888888888889%)
+[I9, I10, I8] => [I2] (Confidence: 88.88888888888889%)
+[I9, I2] => [I10, I8] (Confidence: 66.66666666666666%)
+[I9, I2, I8] => [I10] (Confidence: 72.72727272727273%)
+[I9, I2, I10] => [I8] (Confidence: 100.0%)
+[I6] => [I9, I10, I8] (Confidence: 66.66666666666666%)
+[I6, I8] => [I9, I10] (Confidence: 72.72727272727273%)
+[I10] => [I9, I6, I8] (Confidence: 72.72727272727273%)
+[I10, I8] => [I9, I6] (Confidence: 80.0%)
+[I10, I6] => [I9, I8] (Confidence: 88.88888888888889%)
+[I10, I6, I8] => [I9] (Confidence: 100.0%)
+[I9, I8] => [I10, I6] (Confidence: 61.53846153846154%)
+[I9, I6] => [I10, I8] (Confidence: 80.0%)
+[I9, I6, I8] => [I10] (Confidence: 80.0%)
+[I9, I10] => [I6, I8] (Confidence: 88.88888888888889%)
+[I9, I10, I8] => [I6] (Confidence: 88.88888888888889%)
+[I9, I10, I6] => [I8] (Confidence: 100.0%)
